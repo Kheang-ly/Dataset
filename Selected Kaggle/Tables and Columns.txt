@@ -1,0 +1,79 @@
+Format
+Rar Folder Name 
+- Table name
+column1, column2, ...
+
+
+*** Kaggle
+- SamsungGalaxyS21Ultra_reviews
+user comments as text
+
+Amazon Cell phone reviews (Samsung and iPhone)
+- 20191226-items
+rating, total Review, Price
+- 20191226-review
+rating, date, verified, user comments as text, helpful Votes
+(verified check if the reviewer actually bought the product)
+
+Amazon Reviews
+- Apple-iPhone-7-32GB-Black
+review Rating, review Text
+- Samsung-Galaxy-A10s-A107M-32GB
+review Rating, review Text
+
+
+- Android Permission
+Ratings, num Of Ratings, price, dangerous Permission Count, safe Permission Count
+
+Cell Phone Repair Technician (Samsung)
+- Repair-History
+problem, fixed?
+
+Flipkart Smartphones Dataset (Samsung & iPhone)
+- model, color, original Price, discount Price, ratings, rating Count, reviews, memory,
+storage, processor, rear Cam, front Cam, display Size, battery Capacity, battery Type
+
+Direct Store Product Info (Samsung & iPhone)
+- Phones 
+name, product Info, price, saving Price, review Count
+
+-Mobile recommendation system dataset (Samsung & iPhone)
+name, rating, price, corpus(storage, processor, screen Size,...)
+
+
+Samsung mobile latest dataset
+- new data
+name, ratings, price, ram, os Processor, camera, display, network, battery
+- data
+name, ratings, price, camera, display, battery, storage, ram, processor, android Version
+
+Samsung Smartphone dataset
+- SamsungPhone
+Name, Dimensions, SoC, CPU, GPU, RAM, Storage, Display, Battery, OS, Camera
+
+Smartphone dataset (Samsung & iPhone)
+- smartphix mobile data
+model, price, ratings, IRBlaster, processor Speed, RAM, batteryCapacity, fast Charge Available, fast Charge Capacity, size, resolution, refresh Rate, read Camera, front Camera, primary Rear Camera, primary Front Camera, 
+
+
+Top 100 smartphones (Samsung & iPhone)
+brand Name, phone Name, brand Origin, colors, brand Age
+
+Ultimate Apple Samsung Ecom
+- iPhone amazon
+name, price, stars, review Count, condition
+- iPhone ebay
+name, price, condition
+- Samsung amazon
+name, price, stars, review Count, condition
+- Samsung ebay
+name, price, condition
+
+Android vs IOS device benchmarks
+device, cpu, gpu, mem, ux, total Score
+
+
+
+
+
+
